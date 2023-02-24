@@ -8,8 +8,12 @@
         
         <wb-resource deploy-path="/" source-path="/src/main/webapp" tag="defaultRootSource"/>
         <wb-resource deploy-path="/WEB-INF/classes" source-path="/src/main/java"/>
+<<<<<<< HEAD
                                 
         
+=======
+                        
+>>>>>>> refs/remotes/origin/master
         
         <property name="context-root" value="Practice_Folder"/>
                                 
